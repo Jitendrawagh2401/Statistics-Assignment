@@ -1,0 +1,16 @@
+,,,,,t-Test: Two-Sample Assuming Equal Variances,,,,,,,,,,,,
+t-Test: Paired Two Sample for Means,,,,,,,,,,,,,,,t-Test: Two-Sample Assuming Unequal Variances,,
+,,,,,,beer_servings,spirit_servings,,,t-Test: Two-Sample Assuming Equal Variances,,,,,,,
+,spirit_servings,wine_servings,,,Mean,106.1606218,80.99481865,,,,,,,,,beer_servings,spirit_servings
+Mean,80.99481865,49.4507772,,,Variance,10229.92719,7794.119765,,,,spirit_servings,wine_servings,,,Mean,106.1606218,80.99481865
+Variance,7794.119765,6351.7072,,,Observations,193,193,,,Mean,80.99481865,49.4507772,,,Variance,10229.92719,7794.119765
+Observations,193,193,,,Pooled Variance,9012.023478,,,,Variance,7794.119765,6351.7072,,,Observations,193,193
+Pearson Correlation,0.194797047,,,,Hypothesized Mean Difference,0,,,,Observations,193,193,,,Hypothesized Mean Difference,0,
+Hypothesized Mean Difference,0,,,,df,384,,,,Pooled Variance,7072.913482,,,,df,377,
+df,192,,,,t Stat,2.604133797,,,,Hypothesized Mean Difference,0,,,,t Stat,2.604133797,
+t Stat,4.103510006,,,,P(T<=t) one-tail,0.004784038,,,,df,384,,,,P(T<=t) one-tail,0.004787383,
+P(T<=t) one-tail,3.00542E-05,,,,t Critical one-tail,1.648831425,,,,t Stat,3.684527638,,,,t Critical one-tail,1.648905466,
+t Critical one-tail,1.652828589,,,,P(T<=t) two-tail,0.009568077,,,,P(T<=t) one-tail,0.000131017,,,,P(T<=t) two-tail,0.009574766,
+P(T<=t) two-tail,6.01085E-05,,,,t Critical two-tail,1.966160961,,,,t Critical one-tail,1.648831425,,,,t Critical two-tail,1.966276388,
+t Critical two-tail,1.972396491,,,,,,,,,P(T<=t) two-tail,0.000262035,,,,,,
+,,,,,,,,,,t Critical two-tail,1.966160961,,,,,,
